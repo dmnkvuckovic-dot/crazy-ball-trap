@@ -1,0 +1,2 @@
+Name:, Deploy to GitHub Pages, on push branches tiret main, workflow dispatch, permissions, contents read, pages write, id-token write, concurrency group pages cancel in progress true. Jobs, build runs on ubuntu latest, steps checkout avec actions/checkout@v4, setup node version 20, npm install, npm run build, upload artifact path dist, puis deploy to GitHub Pages @v4.
+
