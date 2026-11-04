@@ -1,0 +1,8 @@
+{
+  "name": "CRAZY BALL TRAP - Jeu 3D de Ball-Trap & Poulets",
+  "description": "Véritable jeu vidéo 3D de ball-trap à la première personne : tirez sur les plateaux d'argile orange fluo et les poulets cartoon déjantés, avec armes réalistes, combos et records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
